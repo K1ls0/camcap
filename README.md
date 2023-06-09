@@ -1,0 +1,1 @@
+# CamCap - Camera Timelapse tool
